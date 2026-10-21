@@ -1,0 +1,22 @@
+DATA CLEANING & REPORTING AUTOMATION
+==========================================
+Rows in original file: 11
+Duplicate rows removed: 1
+Missing cells in original file: 3
+Rows in cleaned file: 10
+
+KEY METRICS
+------------------------------------------
+Average attendance (%): 81.7
+Average assignment score: 83.1
+Average study hours/week: 9.5
+
+STUDENTS BY DEPARTMENT
+------------------------------------------
+AIML: 4
+CSE: 3
+ECE: 3
+
+PASS / FAIL SUMMARY
+------------------------------------------
+Pass: 10
